@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nexus Inventory</string>
+    <string name="brand">Brand</string>
+    <string name="model">Model</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="stock">Stock</string>
+</resources>
